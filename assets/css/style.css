@@ -55,3 +55,21 @@ footer {
   border-top: 1px solid #eee;
   padding-top: 1em;
 }
+/* Shared site navigation */
+
+.site-nav {
+  margin-bottom: 3em;
+}
+
+.site-nav h2 {
+  margin-top: 1.5em;
+}
+
+.site-nav ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.site-nav li {
+  margin: 0.3em 0;
+}
